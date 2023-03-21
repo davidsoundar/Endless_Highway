@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://bya3c4ikx4f75"]
+
+[ext_resource type="Texture2D" uid="uid://ddkxpyvwbfypg" path="res://assets/Toon Road Texture.png" id="1_piv2c"]
+
+[node name="ToonRoadTexture" type="Sprite2D"]
+position = Vector2(19, 3)
+texture = ExtResource("1_piv2c")

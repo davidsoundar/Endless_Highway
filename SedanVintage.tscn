@@ -5,7 +5,7 @@
 
 [sub_resource type="Animation" id="Animation_0ae6i"]
 resource_name = "sedan"
-length = 0.2
+length = 0.21
 loop_mode = 1
 tracks/0/type = "value"
 tracks/0/imported = false
